@@ -2,8 +2,26 @@
 <!--                         made by               Jan Ritt       -       https://github.com/IxI-Enki             -->
 <!-- ============================================================================================================ -->
 
+<div style="page-break-before: always;">
+
 # DSAIUebung-004  --  Predicate Logic Translations
 
+## <p align="center"> 1 -   </p>  
+### <p align="left"> a ) <sub>  </sub> </p>   
+  >  💭
+  
+--- 
+</div>
+
+<div style="page-break-before: always;">
+  
+## <p align="center"> 2 -   </p>  
+### <p align="left"> a ) <sub>  </sub> </p>   
+  >  💭
+  
+--- 
+</div>
+ 
 
 <!-- ============================================================================================================ -->
 <!--                         made by               Jan Ritt       -       https://github.com/IxI-Enki             -->
