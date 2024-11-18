@@ -23,7 +23,7 @@
   <!--
   > ###### <p align="left">2.</p>   
   -->
-  | $\small{ Everyone  \space  loves  \space  Helene  \space  Fischer. \qquad\qquad\qquad\qquad\qquad\quad\space\space\space}$ | ∀x: isHuman(x) ⇒ lovesHeleneFischer(x) |
+  | $\small{ Everyone  \space  loves  \space  Helene  \space  Fischer. \qquad\qquad\qquad\qquad\qquad\quad\space\space\space}$ | ∀𝑥: isHuman(x) ⇒ lovesHeleneFischer(x) |
   |:--------------------------------:|:----------------------------------------:|
   <!-- 
   > ###### <p align="left">3.</p>   
@@ -58,14 +58,14 @@
   <!--
   > ###### <p align="left">9.</p>   
   -->
-  | $\small{ Some \space  animals \space  hunt \space  everything  \space that \space  flies. \qquad\qquad\qquad\quad}$ | ∃x,∀y: isHuntingAnimal(x) ∧ isFlying(y) |
+  | $\small{ Some \space  animals \space  hunt \space  everything  \space that \space  flies. \qquad\qquad\qquad\quad}$ | ∃x,∀𝑦: isHuntingAnimal(x) ∧ isFlying(𝑦) |
   |:------------------------------------------:|:-----------------------------------------:|
   <!--
   > ###### <p align="left">10.</p>   
   -->
-  | $\small{ Not \space  all \space  vegans \space  like  \space all  \space vegetables.\qquad\qquad\qquad\qquad\qquad\space\space }$ | ¬∀x: isVegan(x) ⇒ ¬∀y: isAVegetable(y) ∧ likes(x,y) |
+  | $\small{ Not \space  all \space  vegans \space  like  \space all  \space vegetables.\qquad\qquad\qquad\qquad\qquad\space\space }$ | ¬∀x: isVegan(x) ⇒ ¬∀𝑦: isAVegetable(𝑦) ∧ likes(x,𝑦) |
   |:-------------------------------------:|:------------------------------------------------------:|
-  |                                   or: | ∀x: isVegan(x) ⇒ ∃y: isAVegetable(y) ∧ ¬likes(x,y)  |
+  |                                   or: | ∀x: isVegan(x) ⇒ ∃𝑦: isAVegetable(𝑦) ∧ ¬likes(x,𝑦)  |
   
   </div>
 </div>
