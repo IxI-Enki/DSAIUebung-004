@@ -7,9 +7,11 @@
 # DSAIUebung-004  --  Predicate Logic Translations
 
 ## <div align="center"> Ⅰ ) Translate the following sentences into predicate logic
-| $\large{ \qquad natural \space language \space sentenses \qquad \qquad }$ | $\large{ \color{green}{\qquad\qquad pedicate \space logic\qquad}}$ |  
+| $\large{ \qquad NATURAL \space LANGUAGE \space SENTENCES \quad   }$ | $\large{ \color{green}{ \quad PREDICATE \space LOGIC \qquad\qquad\qquad\qquad}}$ |  
  |:-: |:-:|
  </div>
+
+---
 
 <div align="left">   
   
@@ -77,22 +79,32 @@
 <!-- fast access to my formating "helper-code" ( 💭 → ✎insert here ): 
 
 // USE THIS TO ENSURE PAGE-BREAKS
+//
 <div style="page-break-before: always;">
 💭
 </div>
 
+
 // USE THIS TO ALIGN CONTENT
+//
 <p align="left"> 💭 </p>
 <div align="center"> 💭 </p>
 
+
 // USE THIS CENTERED TABLE
+//
 <div align="center">
   |   |   |   |  
   |:-:|:-:|:-:|  
   |   |   |   |  
 </div>
 
+
 // USE THESE CHARACTERS FOR BEAUTIFUL NOTATIONS
+// 
+// UNICODE - TABLE of all mathematical operators & symbols:
+//     https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode
+//
   ✕ ✖ ⅹ ×  ∓ ∗   ∞   ∧ ⋀ ∨ ⋁   ¬   ≡ 
   ⟹   ⇐ ⇒ ⇔   ← → ↔   ⇽ ⇾ ⇿   ⇠ ⇢   ⇦ ⇨
   ∀  ∃ ∄   ∈ ∋  ∊ ∍
@@ -100,4 +112,5 @@
   𝐴 𝐵 𝑃 𝑄
   ∘ ∙ • …   ✓ ✔  ✗ ✘  
   ⚐ ⚡
+
 -->
