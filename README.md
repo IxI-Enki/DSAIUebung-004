@@ -43,7 +43,7 @@
   <!--
   > ###### <p align="left">6.</p>   
   -->
-  | $\small{ All \space  that  \space glitters \space  is  \space not  \space gold. \qquad\qquad\qquad\qquad\qquad\qquad\quad\space }$ | ∀x: `isGlittering(x)` ⇒ `⌐isGold(x)` |
+  | $\small{ All \space  that  \space glitters \space  is  \space not  \space gold. \qquad\qquad\qquad\qquad\qquad\qquad\quad\space }$ | ⌐∀x: `isGlittering(x)` ⇒ `isGold(x)` |
   |:--------------------------------:|:----------------------------------:|
   <!--
   > ###### <p align="left">7.</p>   
