@@ -28,7 +28,7 @@
   <!-- 
   > ###### <p align="left">3.</p>   
   -->
-  | $\small{ Someone  \space  actually  \space  likes  \space  asparagus. \qquad\qquad\qquad\qquad\quad\quad\space}$ | ∃x: `isHuman(x)` ⇒ `likesAspargus(x)` |
+  | $\small{ Someone  \space  actually  \space  likes  \space  asparagus. \qquad\qquad\qquad\qquad\quad\quad\space}$ | ∃x: `isHuman(x)` ∧ `likesAspargus(x)` |
   |:-----------------------------------:|:-----------------------------------:|
   <!-- 
   > ###### <p align="left">4.</p>   
