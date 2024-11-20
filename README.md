@@ -48,12 +48,12 @@
   <!--
   > ###### <p align="left">7.</p>   
   -->
-  | $\small{ Most  \space Japanese  \space watches  \space are \space  durable \space  and  \space reliable. \qquad\quad\space\space\space}$ | ∃x: `isAWatchMadeInJapan(x)` ⇒ `¬isDurableAndReliable(x)` |
+  | $\small{ Most  \space Japanese  \space watches  \space are \space  durable \space  and  \space reliable. \qquad\quad\space\space\space}$ | ∃x: `isAWatchMadeInJapan(x)` ∧ `¬isDurableAndReliable(x)` |
   |:-------------------------------------------------:|:-----------------------------------------:|
   <!--
   > ###### <p align="left">8.</p>   
   -->
-  | $\small{ Every  \space  \space human  \space being  \space is  \space afraid  \space of \space  something. \qquad\qquad\quad\space\space\space }$ | ∀x: `isHuman(x)` ⇒ `isAfraidOfSomething(x)` |
+  | $\small{ Every  \space  \space human  \space being  \space is  \space afraid  \space of \space  something. \qquad\qquad\quad\space\space\space }$ | ∀x,∃𝑦: `isHuman(x)` ⇒ `isAfraidOfSomething(𝑦)` |
   |:-------------------------------------------:|:-----------------------------------------:|
   <!--
   > ###### <p align="left">9.</p>   
